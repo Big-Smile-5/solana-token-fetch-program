@@ -1,14 +1,21 @@
 [features]
 seeds = false
 skip-lint = false
+
 [programs.localnet]
-solana_token_fetch_program = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+solana_token_fetch_program = "GepFD6mcEKFAHvsm5VrYoNtFjh7niECpxu4tSnzxdvQu"
+
+[programs.testnet]
+solana_token_fetch_program = "GepFD6mcEKFAHvsm5VrYoNtFjh7niECpxu4tSnzxdvQu"
+
+[programs.mainnet]
+solana_token_fetch_program = "GepFD6mcEKFAHvsm5VrYoNtFjh7niECpxu4tSnzxdvQu"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "testnet"
 wallet = "/home/gitpod/.config/solana/id.json"
 
 [scripts]
