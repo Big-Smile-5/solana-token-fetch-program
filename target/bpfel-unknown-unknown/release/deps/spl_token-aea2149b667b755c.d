@@ -1,0 +1,12 @@
+/workspace/solana-token-fetch-program/target/bpfel-unknown-unknown/release/deps/spl_token-aea2149b667b755c.so: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/error.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/instruction.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/native_mint.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/processor.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/state.rs
+
+/workspace/solana-token-fetch-program/target/bpfel-unknown-unknown/release/deps/libspl_token-aea2149b667b755c.rlib: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/error.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/instruction.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/native_mint.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/processor.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/state.rs
+
+/workspace/solana-token-fetch-program/target/bpfel-unknown-unknown/release/deps/spl_token-aea2149b667b755c.d: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/error.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/instruction.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/native_mint.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/processor.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/state.rs
+
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/lib.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/error.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/instruction.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/native_mint.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/processor.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/state.rs:
