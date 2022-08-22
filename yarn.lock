@@ -1387,7 +1387,7 @@
     "@solana/buffer-layout-utils" "^0.2.0"
     "@solana/web3.js" "^1.41.0"
 
-"@solana/web3.js@^1.2.0", "@solana/web3.js@^1.32.0", "@solana/web3.js@^1.36.0", "@solana/web3.js@^1.41.0":
+"@solana/web3.js@^1.2.0", "@solana/web3.js@^1.32.0", "@solana/web3.js@^1.36.0", "@solana/web3.js@^1.41.0", "@solana/web3.js@^1.53.0":
   "integrity" "sha512-QyQDA9U5b+AiTo1ANsj9WihWWECeLv6VRpiTE7xPe5hLYANXZYecnlLglNiEzVgRg/jLvR5DrCISXhHx/mAEJw=="
   "resolved" "https://registry.npmjs.org/@solana/web3.js/-/web3.js-1.53.0.tgz"
   "version" "1.53.0"

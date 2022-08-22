@@ -15,7 +15,7 @@ solana_token_fetch_program = "GepFD6mcEKFAHvsm5VrYoNtFjh7niECpxu4tSnzxdvQu"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "testnet"
+cluster = "localnet"
 wallet = "/home/gitpod/.config/solana/id.json"
 
 [scripts]
